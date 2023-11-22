@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignmnet18
 {
-    internal interface IDisplay
+    internal interface IDisplayable
     {
         string Display();
     }
