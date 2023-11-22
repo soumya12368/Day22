@@ -1,7 +1,7 @@
 ﻿// Laptop.cs
-using Assignmnet18;
-using System;
 
+using System;
+using Assignmnet18;
 public class Laptop : IConnectable, IRechargeable, IDisplayable
 {
     public string Brand { get; set; }
