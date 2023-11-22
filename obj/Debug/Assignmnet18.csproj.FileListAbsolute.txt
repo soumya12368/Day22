@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\bin\Debug\Assignmnet18.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\bin\Debug\Assignmnet18.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\bin\Debug\Assignmnet18.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\obj\Debug\Assignmnet18.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\obj\Debug\Assignmnet18.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\obj\Debug\Assignmnet18.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day13\Assignmnet18\Assignmnet18\obj\Debug\Assignmnet18.pdb
